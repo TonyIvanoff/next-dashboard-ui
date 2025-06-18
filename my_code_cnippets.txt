@@ -1,0 +1,9 @@
+#Component skeleton
+
+const FileName = () => {
+    return (
+        <div className="">TEXT</div>
+    )
+}
+
+export default FileName

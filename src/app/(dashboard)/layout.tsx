@@ -8,7 +8,7 @@ export default function DashboardLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  return <div className="h-screen flex">
+  return <div className="h-screen flex min-w-[320px]">
     {/* LEFT   */}
     <div className="w-[16%] md:w-[8%] lg:w-[16%] xl:w-[16%] p-4">
       <Link href="/" className="flex items-center justify-center lg:justify-start gap-2">
