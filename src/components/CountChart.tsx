@@ -5,17 +5,17 @@ import Image from 'next/image';
 const data = [
   {
     name: 'Total',
-    count: 200,
+    count: 1800,
     fill: 'white',
   },
   {
-    name: 'Male',
-    count: 123,
+    name: 'Female',
+    count: 1200,
     fill: '#FAE27C',
   },
   {
-    name: 'Female',
-    count: 77,
+    name: 'Male',
+    count: 1589,
     fill: '#C3EBFA',
   },
   
